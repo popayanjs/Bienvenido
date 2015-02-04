@@ -2,7 +2,7 @@
 
 > Repositorio para organizar y responder preguntas de los eventos realizados en Popayan, Colombia.
 
-Buscanos en Twitter como [@CREATE ME CAMILO][13] y también está el sitio web en [inProcess.io][14]
+Buscanos en Twitter como @createMeCamilo y también está el sitio web en createMeCamilo.io
 
 **Estamos buscando colaboradores! Si te gusta Javascript y la programacion, sumante!.**
 
@@ -22,9 +22,10 @@ Nombre                  | Descripción
 
 ## Código de Conducta
 
-Encontralo [acá][15].
+Encontralo [acá][5].
 
 [1]: https://help.github.com/articles/using-pull-requests/
 [2]: http://imageshack.com/a/img540/4115/HP2o1T.png
 [3]: https://badges.gitter.im/Join%20Chat.svg
 [4]: https://gitter.im/popayanjs
+[5]: https://github.com/popayanjs/Bienvenido/blob/master/codigodeconducta.md
