@@ -11,7 +11,7 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
-[![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=2&s=40)](https://github.com/a0viedo) | Alejandro Oviedo | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g[at]gmail.com
+[![@hcamilogruiz](https://avatars6.githubusercontent.com/hcamilogruiz?v=3&s=128)](https://github.com/hcamilogruiz) | Camilo Gomez Ruiz | [@hcamilogruiz](https://twitter.com/hcamilogruiz ) | cgomez@tics.co
 
 ## Version Rapida
 
