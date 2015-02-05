@@ -11,7 +11,7 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
-[![@hcamilogruiz](https://avatars6.githubusercontent.com/hcamilogruiz?v=3&s=128)](https://github.com/hcamilogruiz) | Camilo Gomez Ruiz | [@hcamilogruiz](https://twitter.com/hcamilogruiz ) | cgomez@tics.co
+[![@hcamilogruiz](https://avatars6.githubusercontent.com/hcamilogruiz?v=3&s=128)](https://github.com/hcamilogruiz) | Hernan Camilo Gomez Ruiz | [@hcamilogruiz](https://twitter.com/hcamilogruiz ) | cgomez@tics.co
 
 ## Version Rapida
 
