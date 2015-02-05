@@ -2,7 +2,7 @@
 
 > Repositorio para organizar y responder preguntas de los eventos realizados en Popayan, Colombia.
 
-Buscanos en Twitter como @createMeCamilo y también está el sitio web en createMeCamilo.io
+Buscanos en Twitter como <a href="https://twitter.com/popayanjs">@popayanjs</a> y también está el sitio web en <a href="http://www.meetup.com/PopayanJS/"> PopayanJs </a>
 
 **Estamos buscando colaboradores! Si te gusta Javascript y la programacion, sumante!.**
 
