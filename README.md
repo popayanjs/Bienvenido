@@ -4,7 +4,7 @@
 
 Buscanos en Twitter como <a href="https://twitter.com/popayanjs">@popayanjs</a> y también está el sitio web en <a href="http://www.meetup.com/PopayanJS/"> PopayanJs </a>
 
-**Estamos buscando colaboradores! Si te gusta Javascript y la programacion, sumante!.**
+**Estamos buscando colaboradores! Si te gusta Javascript y la programacion, sumate!.**
 
 ## Próximo Evento
    
