@@ -8,7 +8,7 @@ Buscanos en Twitter como <a href="https://twitter.com/popayanjs">@popayanjs</a> 
 
 ## Próximo Evento
    
-   Comming Soon!!! 
+   PopayanJS 26 de Febrero 2015 - Comunidad JavaScript
    
 Si querés ayudar, abrí un issue!
 
@@ -19,6 +19,7 @@ Acá tienen una lista de eventos relacionados a JavaScript en CO. Si sabés de a
 Nombre                  | Descripción
 ------------------------|-----------------------------------------------------------------------------
                         |
+PopayanJs
 
 ## Código de Conducta
 
