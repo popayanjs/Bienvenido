@@ -19,7 +19,7 @@ Acá tienen una lista de eventos relacionados a JavaScript en CO. Si sabés de a
 Nombre                  | Descripción
 ------------------------|-----------------------------------------------------------------------------
                         |
-PopayanJs
+[PopayanJs][6]          | Comunidad de JavaScript para compartir conocimientos del lenguaje y frameworks
 
 ## Código de Conducta
 
@@ -30,3 +30,4 @@ Encontralo [acá][5].
 [3]: https://badges.gitter.im/Join%20Chat.svg
 [4]: https://gitter.im/popayanjs
 [5]: https://github.com/popayanjs/Bienvenido/blob/master/codigodeconducta.md
+[6]: http://www.meetup.com/PopayanJS/
