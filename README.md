@@ -18,7 +18,6 @@ Acá tienen una lista de eventos relacionados a JavaScript en CO. Si sabés de a
 
 Nombre                  | Descripción
 ------------------------|-----------------------------------------------------------------------------
-                        |
 [PopayanJs][6]          | Comunidad de JavaScript para compartir conocimientos del lenguaje y frameworks
 
 ## Código de Conducta
