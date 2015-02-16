@@ -11,8 +11,8 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
-[![@hcamilogruiz](https://avatars6.githubusercontent.com/hcamilogruiz?v=3&s=128)](https://github.com/hcamilogruiz) | Hernan Camilo Gomez Ruiz | [@hcamilogruiz](https://twitter.com/hcamilogruiz ) | cgomez@tics.co
-[![@alexchanapp](https://avatars2.githubusercontent.com/u/8798142?v=3&s=400)](https://github.com/alexchanapp) | Alex Herrera | [@alexchanapp](https://twitter.com/hcamilogruiz ) | axherreram@gmail.com
+[![@hcamilogruiz](https://avatars6.githubusercontent.com/hcamilogruiz?v=3&s=40)](https://github.com/hcamilogruiz) | Hernan Camilo Gomez Ruiz | [@hcamilogruiz](https://twitter.com/hcamilogruiz ) | cgomez@tics.co
+[![@alexchanapp](https://avatars2.githubusercontent.com/u/8798142?v=3&s=40)](https://github.com/alexchanapp) | Alex Herrera | [@alexchanapp](https://twitter.com/hcamilogruiz ) | axherreram@gmail.com
 ## Version Rapida
 
 NodeSchool Buenos Aires se dedica a proporcionar una experiencia libre de acoso por todo el mundo, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de los participantes en cualquier forma. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento según el criterio de los organizadores.
